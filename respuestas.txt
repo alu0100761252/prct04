@@ -7,3 +7,8 @@ de software diseñada para gestionar varias instalaciones de Ruby en el mismo di
 de Ruby (ruby helloWorld.rb) y el interprete interactivo del ejercicio anterior?
 
 Con el interprete de ruby no nos muestra el objeto nil y con el interprete interactivo si 
+
+ ¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete
+interactivo y con pry?
+
+con el interprete interactivo no te muestra el objeto nil y aqui si lo muestra debajo 
